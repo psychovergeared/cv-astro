@@ -1,0 +1,259 @@
+{
+  "basics": {
+      "name": "David Faudito",
+      "label": "Desarrollador Full Stack",
+      "image": "me.webp",
+      "email": "1400kss@gmail.com",
+      "phone": "+58 (412) 773-7828",
+      "url": "https://github.com/OhMyPsycho",
+      "summary": "Como Desarrollador Full Stack, he llevado con éxito múltiples productos de 0 a 1. Actualmente trabajo principalmente con TypeScript, NextJS, Node.js y Flutter. Tengo más de 6 años de experiencia trabajando de forma remota con empresas de todo el mundo.",
+      "location": {
+          "address": "2712 Calle Broadway",
+          "postalCode": "3001",
+          "city": "Barquisimeto",
+          "countryCode": "VE",
+          "region": "Lara"
+      },
+      "profiles": [
+          {
+              "network": "LinkedIn",
+              "username": "David Faudito",
+              "url": "www.linkedin.com/in/david-faudito"
+          },
+          {
+              "network": "GitHub",
+              "username": "OhMyPsycho",
+              "url": "https://github.com/OhMyPsycho"
+          }
+      ]
+  },
+  "work": [
+      {
+          "name": "Alaxatech",
+          "position": "Desarrollador Full Stack",
+          "url": "https://www.behance.net/alaxatech",
+          "startDate": "2020-02-02",
+          "endDate": "2023-07-12",
+          "summary": "Creación de aplicaciones web y móviles para clientes de todo el mundo.",
+          "highlights": [
+              "Fundé la compañía"
+          ]
+      },
+      {
+          "name": "Freelancer",
+          "position": "Desarrollador Full Stack",
+          "url": "",
+          "startDate": "2018-01-01",
+          "endDate": "2024-02-02",
+          "summary": "Desarrollo de aplicaciones web y móviles para clientes de todo el mundo.",
+          "highlights": [
+              
+          ]
+      }
+  ],
+  "volunteer": [
+      {
+          "organization": "Organización",
+          "position": "Voluntario",
+          "url": "https://organization.com/",
+          "startDate": "2012-01-01",
+          "endDate": "2013-01-01",
+          "summary": "Descripción...",
+          "highlights": [
+              "Galardonado como 'Voluntario del Mes'"
+          ]
+      }
+  ],
+  "education": [
+      {
+          "institution": "Universidad",
+          "url": "https://institution.com/",
+          "area": "Desarrollo de Software",
+          "studyType": "Licenciatura",
+          "startDate": "2011-01-01",
+          "endDate": "2013-01-01",
+          "score": "4.0",
+          "courses": [
+              "DB1101 - SQL Básico"
+          ]
+      }
+  ],
+  "awards": [
+      {
+          "title": "Premio",
+          "date": "2014-11-01",
+          "awarder": "Compañía",
+          "summary": "No hay cuchara."
+      }
+  ],
+  "certificates": [
+      {
+          "name": "Certificado",
+          "date": "2021-11-07",
+          "issuer": "Compañía",
+          "url": "https://certificate.com"
+      }
+  ],
+  "publications": [
+      {
+          "name": "Publicación",
+          "publisher": "Compañía",
+          "releaseDate": "2014-10-01",
+          "url": "https://publication.com",
+          "summary": "Descripción..."
+      }
+  ],
+  "skills": [
+      {
+          "name": "Javascript",
+          "level": "Experto",
+          "keywords": [
+              "HTML",
+              "CSS",
+              "JavaScript"
+          ]
+      },
+      {
+          "name": "Typescript",
+          "level": "Experto",
+          "keywords": [
+              "Android",
+              "iOS",
+              "React Native"
+          ]
+      },
+      {
+        "name": "React/NextJS/Remix",
+        "level": "Experto",
+        "keywords": [
+            "Android",
+            "iOS",
+            "React Native"
+        ]
+    },
+    {
+        "name": "Vue/NuxtJS",
+        "level": "Experto",
+        "keywords": [
+            "Android",
+            "iOS",
+            "React Native"
+        ]
+    },
+    {
+        "name": "Angular",
+        "level": "Experto",
+        "keywords": [
+            "Android",
+            "iOS",
+            "React Native"
+        ]
+    },
+    {
+        "name": "NodeJs",
+        "level": "Experto",
+        "keywords": [
+            "Android",
+            "iOS",
+            "React Native"
+        ]
+    },
+    {
+        "name": "Go",
+        "level": "Experto",
+        "keywords": [
+            "Android",
+            "iOS",
+            "React Native"
+        ]
+    },
+    {
+        "name": "Flutter",
+        "level": "Experto",
+        "keywords": [
+            "Android",
+            "iOS",
+            "React Native"
+        ]
+    },
+    {
+        "name": "Kotlin/Java",
+        "level": "Experto",
+        "keywords": [
+            "Android",
+            "iOS",
+            "React Native"
+        ]
+    },
+      {
+          "name": "Gestión de Bases de Datos",
+          "level": "Experto",
+          "keywords": [
+              "MySQL",
+              "PostgreSQL",
+              "MongoDB"
+          ]
+      }
+  ],
+  "languages": [
+      {
+          "language": "Inglés",
+          "fluency": "Nativo"
+      }
+  ],
+  "interests": [
+      {
+          "name": "Vida Salvaje",
+          "keywords": [
+              "Hurones",
+              "Unicornios"
+          ]
+      }
+  ],
+  "references": [
+      {
+          "name": "Jane Doe",
+          "reference": "Referencia..."
+      }
+  ],
+  "projects": [
+      {
+          "name": "Upgrap",
+          "startDate": "2021-01-12",
+          "endDate": "2021-02-01",
+          "description": "Es una plataforma colaborativa, que conecta personas alrededor del mundo que quieran intercambiar objetos.",
+          "isActive": false,
+          "highlights": [
+              "React",
+              "PosgresSQL",
+              "Go"
+          ],
+          "url": "https://upgrap.com/"
+      },
+      {
+          "name": "Eden Bookmarks",
+          "startDate": "2024-02-01",
+          "endDate": "2024-02-03",
+          "description": "Una extensión de Chrome para guardar tus marcadores en localstorage y exportar e importar JSON.",
+          "isActive": true,
+          "highlights": [
+              "React",
+              "Webpack",
+              "Extensiones de Chrome"
+          ],
+          "url": "https://github.com/OhMyPsycho/eden-bookmarks-ext-chrome"
+      },
+      {
+          "name": "Toast Qwik",
+          "startDate": "-",
+          "endDate": "-",
+          "description": "🎉 Qwik-Toast allows you to add notifications to your app with ease. No more nonsense!",
+          "isActive": false,
+          "highlights": [
+              "Qwik",
+              "npm"
+          ],
+          "url": "https://github.com/OhMyPsycho/toast-qwik"
+      }
+  ]
+}

@@ -1,0 +1,39 @@
+---
+interface Skill {
+    name: string;
+}
+import Section from "@/components/Section.astro";
+import { getLangFromUrl, useTranslations } from "@/i18n/utils";
+
+const lang = getLangFromUrl(Astro.url)
+const t = useTranslations(lang);
+
+const {skills} = Astro.props;
+---
+
+<Section title={t('skills')}>
+    <ul>
+        {skills.map(({name}: Skill) => (
+            <li>
+                <span>{name}</span>
+            </li>
+        ))}
+    </ul>
+</Section>
+
+<style>
+    ul {
+        display: inline-flex;
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    li {
+        border-radius: 6px;
+        background: #eee;
+        color: black;
+        padding: 0.2rem 0.6rem;
+        font-weight: 500;
+        font-size: 0.8rem;
+    }
+</style>

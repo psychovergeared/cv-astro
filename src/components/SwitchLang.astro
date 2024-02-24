@@ -1,0 +1,37 @@
+---
+import { getLangFromUrl, useTranslatedPath } from "@/i18n/utils";
+const lang = getLangFromUrl(Astro.url)
+const translatePath = useTranslatedPath(lang);
+
+const langs = ['en', '', 'es'];
+---
+<div class="lang_container">
+    {langs.map(l => {
+        if(l === '') return (<span>|</span>)
+        return (<a href={translatePath('/', l)} class={lang === l ? 'active': ''}>{l}</a>)
+    })}
+</div>
+
+<style>
+.lang_container {
+    display: flex;
+    max-width: 700px;
+    margin: 0 auto 0;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+.lang_container a {
+    text-transform: uppercase;
+    cursor: pointer;
+    color: #222;
+}
+.lang_container a.active {
+    font-weight: bold;
+}
+
+@media print {
+    .lang_container {
+        display: none;
+    }
+}
+</style>
