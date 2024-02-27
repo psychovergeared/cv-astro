@@ -34,7 +34,7 @@
       "url": "https://www.behance.net/alaxatech",
       "startDate": "2020-02-02",
       "endDate": "2023-07-12",
-      "summary": "Creation of web and mobile applications for clients worldwide.",
+      "summary": "Creation of web and mobile applications. Online stores with React, REST APIs using Node.js and Go, and real-time messaging with websockets for mobile applications using (React Native, Ionic, Flutter).",
       "highlights": [
         "Founded the company"
       ]
@@ -45,7 +45,7 @@
       "url": "",
       "startDate": "2018-01-01",
       "endDate": "2024-02-02",
-      "summary": "Development of web and mobile applications for clients worldwide.",
+      "summary": "Development of web applications with (NextJs, Remix, Qwik, astro) with their respective back-ends in (Nodejs, Go, Rust) and mobile applications with flutter.",
       "highlights": []
     }
   ],

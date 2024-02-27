@@ -6,7 +6,7 @@
       "email": "1400kss@gmail.com",
       "phone": "+58 (412) 773-7828",
       "url": "https://github.com/OhMyPsycho",
-      "summary": "Como Desarrollador Full Stack, he llevado con éxito múltiples productos de 0 a 1. Actualmente trabajo principalmente con TypeScript, NextJS, Node.js y Flutter. Tengo más de 6 años de experiencia trabajando de forma remota con empresas de todo el mundo.",
+      "summary": "Como Desarrollador Full Stack, he llevado con éxito múltiples productos de 0 a 1. Actualmente trabajo principalmente con TypeScript, NextJS, Go, Node.js y Flutter. Tengo más de 6 años de experiencia trabajando de forma remota con empresas de todo el mundo.",
       "location": {
           "address": "2712 Calle Broadway",
           "postalCode": "3001",
@@ -34,9 +34,9 @@
           "url": "https://www.behance.net/alaxatech",
           "startDate": "2020-02-02",
           "endDate": "2023-07-12",
-          "summary": "Creación de aplicaciones web y móviles para clientes de todo el mundo.",
+          "summary": "Creación de aplicaciones web y móviles. Tiendas online con react, API-RES con Nodejs y Go con uso de websockets para mensajería tiempo real y aplicaciones móviles usando (React Native, ionic, flutter).",
           "highlights": [
-              "Fundé la compañía"
+              "desarrollador full stack"
           ]
       },
       {
@@ -45,7 +45,7 @@
           "url": "",
           "startDate": "2018-01-01",
           "endDate": "2024-02-02",
-          "summary": "Desarrollo de aplicaciones web y móviles para clientes de todo el mundo.",
+          "summary": "Desarrollo de aplicaciones web con (NextJs, Remix, Qwik, astro) con sus respectivos back-end en (Nodejs, Go, Rust) y aplicaciones móviles con flutter.",
           "highlights": [
               
           ]
